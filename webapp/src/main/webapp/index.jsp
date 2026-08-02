@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for training - DevOps Techlab</h1>
-    <p>Testing Automated Build and Deployment using Jenkins - lala-1 </p>
+    <p>Testing Automated Build and Deployment using Jenkins - hiii </p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
